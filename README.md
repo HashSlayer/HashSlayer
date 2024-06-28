@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ## 🚀 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mekail&layout=compact&theme=radical)
 
-## 📫 How to Reach Me
+## 📫 Reach Me
 - Twitter: [@0xmekail](https://twitter.com/0xmekail)
 - Discord: Mekail
-- Telegram: @TheHashSlayer
+- Telegram: TheHashSlayer
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
