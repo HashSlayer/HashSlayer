@@ -1,18 +1,13 @@
-<div align="center">
-
-| /_/\ |
-| ( o.o ) |
-| > ^ < |
-| ________________ |
-| / Hello World! \ |
-| | I'm Mekail ||
-| | Passionate ||
-| | about Web3, AI, ||
-| | and Governance ||
-\ ____________/ /
-______________/
-
-</div>
+## Hello World
+ /_/\
+( o.o )
+ > ^ <
+  ____
+ / Yo \
+|  I'm Mekail  |
+|  Passionate about  |
+|  Governance, Web3, AI  |
+ _______/
 
 - 🔭 I’m currently working on IMPs with Ninit 
 - 🌱 I’m currently learning more about Zk and optimistic roll ups, EVM opcode, and react.
