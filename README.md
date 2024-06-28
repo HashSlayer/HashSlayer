@@ -1,8 +1,8 @@
-      /\_/\
-    ( o.o )
-     > ^ <
-  ________________
- / Hello World!    \
+|      /\_/\        |  
+|   ( o.o )         |
+|     > ^ <         |
+|  ________________ |
+|/ Hello World!    \|
 |  I'm Mekail      |
 |  Passionate      |
 |  about Web3, AI, |
