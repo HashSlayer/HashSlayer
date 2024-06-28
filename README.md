@@ -1,12 +1,11 @@
-## Hello World
  /_/\
 ( o.o )
  > ^ <
   ____
- / Yo \
-|  I'm Mekail  |
+ /Hello World! \
+|  I'm [Your Name]  |
 |  Passionate about  |
-|  Governance, Web3, AI  |
+|  [Your Interests]  |
  _______/
 
 - 🔭 I’m currently working on IMPs with Ninit 
