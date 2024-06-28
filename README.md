@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 📱 [Mobile App Development](https://github.com/mekail/mobile-app)
 
 ## 🌟 Skills
-- **Languages:** Python, C++, Solidity, Swift, Javascript
+- **Languages:** Python, Solidity, Swift, Javascript
 - **Frameworks:** React, Node.js, Hardhat, Scaffold-Eth-2
 
 
@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 - Discord: Mekail
 - Telegram: @TheHashSlayer
 
-## 🎨 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
