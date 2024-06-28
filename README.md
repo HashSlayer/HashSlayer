@@ -1,12 +1,5 @@
- /_/\
-( o.o )
- > ^ <
-  ____
- /Hello World! \
-|  I'm [Your Name]  |
-|  Passionate about  |
-|  [Your Interests]  |
- _______/
+# Hello World, I'm Mekail! 👋
+
 
 - 🔭 I’m currently working on IMPs with Ninit 
 - 🌱 I’m currently learning more about Zk and optimistic roll ups, EVM opcode, and react.
