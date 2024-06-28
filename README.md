@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 Current Projects
-- 🌐 [IMPS]([https://github.com](https://github.com/Novus-Initium/IMPs)) https://github.com](https://github.com/Novus-Initium/IMPs
+- 🌐 [IMPS](https://github.com/Novus-Initium/IMPs)
 
 ## 🌟 Skills
 - **Languages:** Python, Solidity, Swift, Javascript
