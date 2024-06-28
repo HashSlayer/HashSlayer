@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 Current Projects
-- 🌐 [IMPS](https://github.com)
-- 🤖 [AI Chatbot](https://github.com/mekail/ai-chatbot)
-- 📱 [Mobile App Development](https://github.com/mekail/mobile-app)
+- 🌐 [IMPS]([https://github.com](https://github.com/Novus-Initium/IMPs))
 
 ## 🌟 Skills
 - **Languages:** Python, Solidity, Swift, Javascript
