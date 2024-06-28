@@ -1,10 +1,12 @@
-    /\_/\
-   ( o.o )
-    > ^ <
-   _______________
-  / Hello World!   \
-|  I'm Mekail     |
- \_______________/
+ /_/\
+( o.o )
+ > ^ <
+  ____
+ /Hello World! \
+|  I'm Mekail  |
+|  Passionate about  |
+|  Web3, AI, and governance  |
+ _______/
 
 - 🔭 I’m currently working on IMPs with Ninit 
 - 🌱 I’m currently learning more about Zk and optimistic roll ups, EVM opcode, and react.
