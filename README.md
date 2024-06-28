@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on IMPs with Ninit 
+- 🌱 I’m currently learning L2 development, react, and still solidity
+- ⚡ Fun fact: Winning the rat race means you're still a rat
 <!--
 **MekailTheMachine/MekailTheMachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
