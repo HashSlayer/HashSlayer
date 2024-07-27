@@ -7,6 +7,7 @@
 
 ## 🔭 Current Projects
 - 🌐 [IMPS](https://github.com/Novus-Initium/IMPs)
+- 🌐 [SGS](https://github.com/Novus-Initium/scaffold-grants)
 
 ## 🌟 Skills
 - **Languages:** Python, Solidity, Swift, Javascript, C++, 
