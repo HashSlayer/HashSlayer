@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on IMPs, SGS, and Public Goods Casino with Ninit
 - 🌱 I’m currently learning more about Zk and optimistic roll ups, EVM opcode, react, allo v1, and v2
-- ⚡ Fun fact: Winning the rat race means you're a rat 
+- ⚡ Fun fact: Winning the rat race still makes you a rat 
 
 ## 🔭 Current Projects
 - 🌐 [IMPS](https://github.com/Novus-Initium/IMPs)
