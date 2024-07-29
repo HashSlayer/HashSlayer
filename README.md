@@ -14,7 +14,7 @@
 - **Frameworks:** React, Node.js, Hardhat, Scaffold-Eth-2, Foundry, Tkinter
 
 ## 📫 Reach Me
-- Twitter: [@0xmekail](https://twitter.com/0xmekail)
+- Twitter: [@Mewkail](https://twitter.com/Mewkail)
 - Discord: Mekail
 - Telegram: TheHashSlayer
 
