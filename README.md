@@ -1,20 +1,15 @@
 # Hello World, I'm Mekail! 👋
 
-
-- 🔭 I’m currently working on IMPs, Civikit, and Public Goods Casino with Ninit
-- 🌱 I’m currently learning more about Zk and optimistic roll ups, EVM opcode, react, allo v1, and v2
+- 🔭 I'm working on my OSRS auto-clicker currently to help learn more and practice building a modular sdk alongside Civikit.
+- 🌱 I’m currently learning system architecturing and protocol engineering for modular governance design.
 - ⚡ Fun fact: over 256 billion dollars are lost or misallocated within the American tax system each year.
 
 ## 🔭 Current Projects
-- 🌐 [IMPS](https://github.com/Novus-Initium/IMPs)
-- 🌐 [SGS](https://github.com/Novus-Initium/scaffold-grants)
+- 🌐 [Civikit](https://github.com/Novus-Initium/Civikit)
 
-## 🌟 Skills
-- **Languages:** Python, Solidity, Swift, Javascript, C++, 
-- **Frameworks:** React, Node.js, Hardhat, Scaffold-Eth-2, Foundry, Tkinter
-
+## 🌟 I got Skills
 ## 📫 Reach Me
-- Twitter: [@Mewkail](https://twitter.com/Mewkail)
+- Twitter: [@Mewkail](https://twitter.com/NotMekail)
 - Discord: Mekail
 - Telegram: TheHashSlayer
 
