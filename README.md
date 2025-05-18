@@ -1,8 +1,8 @@
 # Hello World, I'm Mekail! 👋
 
-- 🔭 I'm working on Ninit and Pollination Station, and Python automation.
-- 🌱 I’m currently playing with rocks. 
-- ⚡ Fun fact: over 256 billion rocks are lost within the American tax system each year.
+- 🔭 I'm working on Ninit and Pollination Station, and Python automation
+- 🌱 I’m currently eating clay
+- ⚡ Fun fact: over 256 billion rocks are lost within the American tax system each year
 
 ## 🔭 Current Projects
 - 🌐 [Civikit](https://github.com/Novus-Initium/Civikit)
